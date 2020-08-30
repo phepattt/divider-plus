@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS 
+#define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 main()
 {
@@ -19,7 +19,7 @@ main()
 	}
 	if (a = b)
 	{
-		printf("%d", c);
+		printf(" P(x) = %d ", c);
 	}
 	return 0;
 }
