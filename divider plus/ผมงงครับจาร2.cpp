@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
-main()
+int main()
 {
 	int a, b = 1, c = 0;
 	printf("Enter number : ");
